@@ -1,4 +1,5 @@
 package com.security4beginner.fr;
+import org.apache.log4j.Logger;
 
 public class Main {
 
